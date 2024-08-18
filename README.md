@@ -1,4 +1,4 @@
-# CS6910-Assignment-3
+# Machine-Transliteration
 This is [CS6910](http://www.cse.iitm.ac.in/~miteshk/CS6910.html) course assignment-3 at IIT Madras. [Here](https://wandb.ai/cs6910-dl-assignments/assignment%203/reports/Assignment-3--Vmlldzo3NTUwNzY4?accessToken=cb5ahfcp8eisq1oe6ixumae10ttzpp16rtdbtsfm30le7l9zgdqko388iasvrh93) you will find detailed information about the assignment. In this assignment, I created a **Recurrent Neural Network** to transliterate a word from **English** to **Bengali** (how we type while chatting with our friends on WhatsApp etc). Different types of cells such as **vanilla RNN**, **LSTM**, **GRU** have been implemented to improve the accuracy of the model. Along with that, an **attention network** has been added in the model to further increase the accuracy of the model.
 
 The model has been trained by using [Aksharantar dataset](https://drive.google.com/file/d/1tGIO4-IPNtxJ6RQMmykvAfY_B0AaLY5A/view?usp=drive_link) released by [AI4Bharat](https://ai4bharat.org/).
